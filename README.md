@@ -26,7 +26,8 @@ AI triage → doctor matching → booking → tele-consultation → clinical rep
 [Tech stack](#-tech-stack) ·
 [Getting started](#-getting-started) ·
 [Database](#-database) ·
-[Project structure](#-project-structure)
+[Project structure](#-project-structure) ·
+[Team](#-built-together-by)
 
 <br/>
 
@@ -254,9 +255,39 @@ MediSync is a **prototype built for demonstration**, not a certified medical pro
 - API keys are used from the browser. For a real deployment, move AI calls behind a server and enable Supabase Row Level Security.
 - The doctor directory, ratings, and landing-page testimonials are generated sample data.
 
+## 🤝 Built together by
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/arpit-raj-001"><img src="https://github.com/arpit-raj-001.png?size=160" width="80" alt="Arpit Raj" /><br/><b>Arpit Raj</b></a><br/>
+<sub><a href="https://github.com/arpit-raj-001">@arpit-raj-001</a></sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/beastb728"><img src="https://github.com/beastb728.png?size=160" width="80" alt="Ishaan Singh" /><br/><b>Ishaan Singh</b></a><br/>
+<sub><a href="https://github.com/beastb728">@beastb728</a></sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/HridayModi18"><img src="https://github.com/HridayModi18.png?size=160" width="80" alt="Hriday Modi" /><br/><b>Hriday Modi</b></a><br/>
+<sub><a href="https://github.com/HridayModi18">@HridayModi18</a></sub>
+</td>
+<td align="center" width="25%">
+<b>Madhav Agrawal</b>
+</td>
+</tr>
+</table>
+
 ## 🙏 Acknowledgements
 
-Forked from [arpit-raj-001/medsync](https://github.com/arpit-raj-001/medsync).
+- [Supabase](https://supabase.com) for the database and realtime layer
+- [Google Gemini](https://ai.google.dev) and [Groq](https://groq.com) for the models behind triage, reports and summaries
+- [Leaflet](https://leafletjs.com) and [OpenStreetMap](https://www.openstreetmap.org) contributors for maps
+- [Lucide](https://lucide.dev) for icons
+- Original repository: [arpit-raj-001/medsync](https://github.com/arpit-raj-001/medsync)
+
+## 📜 License
+
+Released under the [MIT License](LICENSE).
 
 <div align="center">
 <br/>
